@@ -1,0 +1,5 @@
+package com.yczh.s2s3h4.mysql;
+
+public enum SqlOperator {
+	NULL, NOT_NULL, EQUAL, NOT_EQUAL, LIKE, LESS_THAN, LESS_THAN_OR_EQUAL, GREATER_THAN, GREATER_THAN_OR_EQUAL,OR,
+}
